@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**NTVG-Rodri/NTVG-Rodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rodrigo Rodriguez**, a Data Engineer and Systems Engineering student at UTN in Argentina.
 
-Here are some ideas to get you started:
+- Passionate about building robust ELT pipelines using Airflow, dbt, and Docker.
+- How to reach me: [rodri.23.rodriguez@gmail.com](mailto:rodri.23.rodriguez@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/rodrigo-rodriguez-data-engineer/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+- **Languages:** Python, SQL (MySQL, PostgreSQL), Pascal, SmallTalk, Elixir
+- **Data Engineering:** Airflow, dbt, Docker
+- **Databases & Tools:** DBeaver, Metabase, Git, GitHub
