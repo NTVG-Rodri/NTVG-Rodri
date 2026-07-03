@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Rodrigo Rodriguez**, a Data Engineer and Systems Engineering student at UTN in Argentina.
+I'm **Rodrigo Rodriguez**, a Data & Analytics Engineer and Systems Engineering student at UTN in Argentina.
 
 - Passionate about building robust ELT pipelines using Airflow, dbt, and Docker.
 - How to reach me: [rodri.23.rodriguez@gmail.com](mailto:rodri.23.rodriguez@gmail.com)
